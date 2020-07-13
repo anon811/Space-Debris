@@ -1,0 +1,8 @@
+#Ignore specific folders (IDE Project data and cache files)
+venv/*
+.idea/*
+__pycache__/
+migrations/*
+
+#Ignore files by extensions
+*.pyc
