@@ -1,4 +1,4 @@
-# Space Debris
+# Very simple game to understand async-await basics
 ![](https://github.com/anon811/Space-Debris/blob/master/readme_img/spaceship-animated.gif)
 
 
